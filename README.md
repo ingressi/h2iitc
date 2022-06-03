@@ -120,12 +120,11 @@ ornaments 표시 기능의 경우 이벤트에 따른 특수 포탈들의 정보
 Info plug-in 범주에는 아래와 같은 기능들이 모여 있습니다.  
 <img src="IITC_17.jpg" />  
 <img src="IITC_18.jpg" />  
+layer count 기능을 켜면 표시되는 "삼각형 그려진 버튼"을 누른 후 
+지도 상 필드를 클릭하면 몇겹이 겹친 필드인지 숫자로 알려줍니다.
 
-Keys 플러그인의 내용은 다음과 같습니다.  
-<img src="IITC_20.jpg" />  
-
-Misc 분류에는 아래와 같은 기타 항목들이 있습니다.  
-<img src="IITC_26.jpg" />  
+Keys 및 Misc 분류는 다음과 같습니다.  
+<img src="IITC_20.jpg" /> <img src="IITC_26.jpg" />  
 
 ### [PI / Layers]
 Layer 분류에 설정할 것들이 많습니다.  
