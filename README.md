@@ -59,20 +59,22 @@ Settings를 누르면 하위 메뉴들을 볼 수 있습니다.
 ### [Advanced 메뉴]
 내용이 적은 Advanced 쪽을 먼저 살펴보자면 아래와 같습니다.  
 <img src="IITC_05.jpg" />  
-developer 모드는 개발자들을 위한 기능,  
-Configure menu 에서 화면에서 없앨 메뉴 설정 가능,  
-Disable Splash 체크는 첫 실행시 뜨는 대문 화면 스킵,  
+* Developer 모드 : 개발자들을 위한 기능  
+* Configure menu : 타이틀바에서 없앨 메뉴 설정 가능  
+* Disable Splash : 첫 실행시 뜨는 대문 화면 스킵  
 등등의 설정이 가능합니다.  
+
 마지막 항목인 Fake Agent 기능을 켜면 스마트폰 전체 설정에서 인증 연계되는 
 자동 로그인 방식이 아니라 iitc앱 실행 상에서 따로 띄워지는 로그인 화면을 
 통해 사용이 가능합니다.  
+(로그인 화면 무한 반복시 해결 방법으로 사용되기도 함.)
 
 ### [IITC Plugins 메뉴]
 가장 길고 많은 내용을 가진 Plugins (이하 PI) 메뉴에 들어가보면 아래와 같습니다.  
 <img src="IITC_10.jpg" />  
 11가지 범주로 기능설정이 분류되어 있습니다.  
 주로 설정하게 되는 것은 Control, Highlighter, Layer 등이고...  
-Potal Info 및 Tweak 쪽에도 설정할 기능이 있습니다.  
+Potal Info 및 Tweak 쪽에도 일부 설정할 기능이 있습니다.  
 
 ### [PI / Controls]
 <img src="IITC_11.jpg" />  
