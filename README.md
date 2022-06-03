@@ -77,23 +77,34 @@ Settings를 누르면 하위 메뉴들을 볼 수 있습니다.
 Potal Info 및 Tweak 쪽에도 일부 설정할 기능이 있습니다.  
 
 ### [PI / Controls]
-<img src="IITC_11.jpg" />  
 Controls 플러그인에는 설정하여 사용할 기능이 많습니다.  
-<img src="IITC_11a.jpg" />  
-"Bookmarks for maps and portals" 체크박스를 켜두면... 
+<img src="IITC_11.jpg" />  
+"Bookmarks for maps and portals" 체크박스를 켜두면...  
 iitc를 사용하다가 특정 지역을 특정 배율로 보던 상태를 저장하거나 
 다시 로드할 수 있는 메뉴가 활성화됩니다. 서로 다른 여러 지역에 
 관심사가 있을 때 각 지역과 배율을 "지도 책갈피"처럼 지정해 두고 
 손쉽게 원클릭으로 오가며 현재 동향을 살펴보게 됩니다.  
+<img src="IITC_11a.jpg" />  
 
-iitc 사용중인 메인 지도 화면에서 왼쪽 바깥부터 안쪽으로 스와이프 
-하면 Info 및 Log를 볼 수 있는 메뉴가 나오게 되는데, 
-체크를 켜면 맨 아래 Bookmarks 메뉴가 생깁니다.  
+iitc 앱 화면 타이틀바 왼쪽 햄버거(三) 버튼을 누르면 Info 및 Log 메뉴가 
+나오는데, bookmark 체크를 켜면 위 그림과 같이 Bookmarks 메뉴가 생깁니다.  
+<img src="IITC_11b.jpg" />  
 +Map을 누르면 현재 화면의 위치와 배율이 저장되어 나중에 원클릭으로 
 로드 가능해집니다. "Show X button"을 눌러서 책갈피를 지울 수 있습니다.  
-<img src="IITC_11b.jpg" />  
 책갈피가 많은 경우 폴더로 정리할 수 있고 Show move button으로 순서 등을 
 정리할 수 있습니다.  
+
+그 외 기능들은 아래와 같으며, 문서 도입부 첫 스샷에서 대부분 설명되었습니다.  
+* Mini map : 화면 우하단에 줌아웃된 지도를 표기.  
+  * (복잡한 포탈 등 정보 없이 지도만 보여줌)  
+* pan control : 상하좌우 이동키 표출.  
+  * (한 페이지 씩 패닝하여 드래그 로딩 충돌 방지)  
+* scale bar : 지도의 실제 거리를 알 수 있는 축적자 표출.
+* zoom slider : 줌인 줌아웃 한번에 가능한 축적 줄자 표출.  
+  * (줄자 위에 원클릭으로 특정 배율 한번에 로딩 가능)  
+
+iitc에서 가장 불편한 점이 로딩중인 화면을 계속 조작하게 되는 충돌성이기에, 
+이 control들을 활용하면서 화면 터치를 최소화하면 다소 쾌적한 사용이 가능합니다.  
 
 ### [PI / Highlighter]
 Highlighter 설정에서는 주로 포탈을 나타내는 작은 동그라미 위에 나타낼 
