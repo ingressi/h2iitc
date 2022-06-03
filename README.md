@@ -1,7 +1,7 @@
 ## How to iitc
 인그레스를 도와주는 도구앱인 iitc의 기초적인 활용법을 소개하는 문서. <img src="cc_by.svg" />  
 
-### 개요
+### [개요]
 iitc는 별도의 전용 네이티브 앱인 것처럼 보이지만, 실은 인그레스 intel 사이트에서 
 제공되는 화면 정보를 변경하고 wrapping하여 보여주는 기본 구조를 지녔습니다.  
 
@@ -9,7 +9,7 @@ iitc는 별도의 전용 네이티브 앱인 것처럼 보이지만, 실은 인�
 사용자의 입력을 제대로 처리하지 못하기도 합니다. 화면 상단에 파란색 막대 그래프가
 끝까지 완료되는 것을 기다리며 사용하길 권장합니다.  
 
-### 기본 화면
+### [기본 화면]
 스마트폰에서 iitc를 실행하면 대략 아래와 같은 화면을 보게 됩니다.  
 실행되자마자 아직 정보로딩이 안된 왼쪽 상태에서, 시간이 걸려 로딩이 마쳐지면 
 오른쪽처럼 포탈과 링크필드 및 추가 정보들이 보이게 됩니다.  
@@ -24,13 +24,13 @@ iitc는 별도의 전용 네이티브 앱인 것처럼 보이지만, 실은 인�
 * 약 1cm남짓 척도의 화면 실제 거리 scale bar
 * (참고로, 이 control들은 로딩상황상 순서가 서로 뒤바뀔 수 있음)
 
-### 주로 쓰는 메뉴들
+### [주로 쓰는 메뉴들]
 우측상단 구석에 more(점3개) 버튼을 누르면 메뉴를 볼 수 있고, 주로 Settings 내 
 설정을 설명하게 될 것입니다.  
 (Fullscreen을 누르면 타이틀바를 없애고 전체 화면으로 동작하며,  
 Reload를 누르면 정체 및 오류 상황을 극복하기 위해 화면 전체를 다시 로드합니다.)  
 
-### Settings 메뉴
+### [Settings 메뉴]
 Settings를 누르면 하위 메뉴들을 볼 수 있습니다.  
 <img src="IITC_03.jpg" />  
 체크박스와 함께 있는 메뉴는 on/off 토글이 가능합니다.  
@@ -41,7 +41,7 @@ Persistent 줌레벨 기능은 선택한 지도 축척이 함부로 변경되지
 이 중에 하위 메뉴가 많아서 별도로 설명하게 되는 메뉴 2가지는 
 "IITC Plugins" 메뉴와 "Advanced settings" 메뉴입니다. 
 
-### Advanced 메뉴
+### [Advanced 메뉴]
 내용이 적은 Advanced 쪽을 먼저 살펴보자면 아래와 같습니다.  
 <img src="IITC_05.jpg" />  
 developer 모드는 개발자들을 위한 기능,  
@@ -52,14 +52,14 @@ Disable Splash 체크는 첫 실행시 뜨는 대문 화면 스킵,
 자동 로그인 방식이 아니라 iitc앱 실행 상에서 따로 띄워지는 로그인 화면을 
 통해 사용이 가능합니다.  
 
-### IITC Plugins 메뉴
+### [IITC Plugins 메뉴]
 가장 길고 많은 내용을 가진 Plugins (이하 PI) 메뉴에 들어가보면 아래와 같습니다.  
 <img src="IITC_10.jpg" />  
 11가지 범주로 기능설정이 분류되어 있습니다.  
 주로 설정하게 되는 것은 Control, Highlighter, Layer 등이고...  
 Potal Info 및 Tweak 쪽에도 설정할 기능이 있습니다.  
 
-### PI / Controls
+### [PI / Controls]
 <img src="IITC_11.jpg" />  
 Controls 플러그인에는 설정하여 사용할 기능이 많습니다.  
 <img src="IITC_11a.jpg" />  
@@ -78,7 +78,7 @@ iitc 사용중인 메인 지도 화면에서 왼쪽 바깥부터 안쪽으로 �
 책갈피가 많은 경우 폴더로 정리할 수 있고 Show move button으로 순서 등을 
 정리할 수 있습니다.  
 
-### PI / Highlighter
+### [PI / Highlighter]
 Highlighter 설정에서는 주로 포탈을 나타내는 작은 동그라미 위에 나타낼 
 정보들을 선택합니다.  
 <img src="IITC_14.jpg" />  
@@ -88,7 +88,7 @@ Highlighter 설정에서는 주로 포탈을 나타내는 작은 동그라미 �
 ornaments 표시 기능의 경우 이벤트에 따른 특수 포탈들의 정보를 표기하기도 
 하고, scan 관련 부가 정보를 나타내주기도 합니다.  
 
-### PI / Info & Keys & Misc
+### [PI / Info & Keys & Misc]
 Info plug-in 범주에는 아래와 같은 기능들이 모여 있습니다.  
 <img src="IITC_17.jpg" />  
 <img src="IITC_18.jpg" />  
@@ -99,7 +99,7 @@ Keys 플러그인의 내용은 다음과 같습니다.
 Misc 분류에는 아래와 같은 기타 항목들이 있습니다.  
 <img src="IITC_26.jpg" />  
 
-### PI / Layers
+### [PI / Layers]
 Layer 분류에 설정할 것들이 많습니다.  
 <img src="IITC_21.jpg" />  
 <img src="IITC_22.jpg" />  
@@ -132,7 +132,7 @@ Map tiles 항목에서는 지도의 배경 그림이 되는 지도 서비스를 
 이 지도 서비스의 로딩 속도도 iitc를 사용하는 체감속도에 큰 영향을 주게 
 되므로 느리지 않은 서비스를 잘 선택해야 합니다. (사용자 상황에 따라 다름)  
 
-### PI / Portal Info
+### [PI / Portal Info]
 Portal Info 항목들은 아래와 같습니다.  
 <img src="IITC_27.jpg" />  
 Show linked portals 체크를 켜두면 어떤 포탈을 선택하고 우 하단 정보탭을
@@ -149,12 +149,12 @@ Show less portals 옵션은 줌 레벨과 무관히 모든 포탈을 로드하�
 Show directions of links 기능은 링크의 방향성 (out/in)을 보여주는 기능이며, 
 info tap 정보 화면에 있는 여러 버튼 중 Link Direction 버튼으로 사용하게 됩니다.
 
-### Layer chooser
+### [Layer chooser]
 기본 화면에서 사용 중에 오른쪽 바깥쪽에서 안쪽으로 스와이프하면
 Layer chooser 메뉴가 나오는데, 내용이 많아서 상하 스크롤 하며 사용합니다.  
 <img src="IITC_40.jpg" />  
 
-### Tap for info / Info screen
+### [Tap for info / Info screen]
 다시 메인 화면을 보면서 설정된 부분별 기능을 보자면 다음과 같습니다.  
 <img src="IITC_42a.jpg" />  
 화면 좌측 하단에 포탈 이름이 쓰여진 부분을 클릭하면 Info screen 화면이 나옵니다.  
@@ -163,7 +163,7 @@ Layer chooser 메뉴가 나오는데, 내용이 많아서 상하 스크롤 하�
 <img src="IITC_51.jpg" />  
 선택된 포탈이 있다면 포탈의 정보와 함께 기능 버튼들이 나옵니다.  
 
-### Auto draw
+### [Auto draw]
 기능 버튼 중, Auto draw 기능을 사용해봅니다.  
 <img src="IITC_52.jpg" />  
 노란색 별을 눌러서 북마크로 찜해둔 포탈들의 리스트가 나옵니다.
