@@ -250,6 +250,23 @@ Auto draw 기능으로 구상해본 상상의 필드가 보라색으로 그려�
 현재 맵에 실존하는 기존 링크들과 겹친다면 동일 링크는 파란색(done link)으로, 
 방해 링크는 붉은색(cross link)으로 표시 됩니다.  
 
+### 설정 요약
+(저자개인적설정요약)
+* Settings
+  * Show zoom control / Press back twice / Persistent zoom  
+* Advanced
+  * Disable splash / Fake agent  
+* PI Controls
+  * Bookmarks / pan / scale / zoom slider
+* PI Info, Misc
+  * ~Layer count~ : 간혹 사용 (필드 내 포탈 클릭 X)
+  * ~Portal link copier~ : 필요시 사용
+* PI Layers
+  * Cross / Done / Draw / Links / Player / Level / Names
+* ~PI Map > OSM~ ...
+* PI Portal info & Tweaks
+  * Linked portals / Direction
+
 ### 그 밖에...
 IITC는 intel맵 웹사이트를 개선한 래핑툴이며, 다양한 개발자들이 다른 방식으로 
 구현한 다른 인텔 앱들도 있습니다. 사용자 성향에 맞게 선택/경험하여 사용할 수 있으며, 
