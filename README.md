@@ -257,13 +257,13 @@ Auto draw 기능으로 구상해본 상상의 필드가 보라색으로 그려�
 * Advanced
   * Disable splash / Fake agent  
 * PI Controls
-  * Bookmarks / pan / scale / zoom slider
-* PI Info, Misc
+  * Bookmarks / Pan / Scale / Zoom slider
+* PI Info & Misc
   * ~Layer count~ : 간혹 사용 (필드 내 포탈 클릭 X)
   * ~Portal link copier~ : 필요시 사용
 * PI Layers
   * Cross / Done / Draw / Links / Player / Level / Names
-* ~PI Map > OSM~ ...
+* ~PI Map tiels > OSM~ ...
 * PI Portal info & Tweaks
   * Linked portals / Direction
 
