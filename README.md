@@ -23,7 +23,8 @@ iitc는 별도의 전용 네이티브 앱인 것처럼 보이지만, 실은 인�
   * 삼각형이 그려진 layer count 버튼
 * 우하단에 고배율 지도 mini map
 * 약 1cm남짓 척도의 화면 실제 거리 scale bar
-* (참고로, 이 control들은 로딩상황상 순서가 서로 뒤바뀔 수 있음)
+  * (참고로, 위 control들은 로딩상황상 순서가 서로 뒤바뀔 수 있음)
+* 최 하단 Tap info 라인 (클릭 시 인포 화면)  
 
 ### [상단 Title bar의 메뉴들]
 가장 상단에는 앱 이름과 여러 기능들이 배치되며, 화면 크기에 따라 
@@ -164,7 +165,7 @@ Player tracker 기능은 지도 상에서 다른 요원(인그레스 플레이�
 Portal Names는 유용하게 포탈 이름들을 화면에 보여주며, 
 Zaprange는 각 포탈이 플레이어를 공격할 수 있는 사정거리 원을 보여줍니다.
 
-### [PI / Map tiles]
+### [PI / Map Tiles]
 Map tiles 항목에서는 지도의 배경 그림이 되는 지도 서비스를 선택합니다.  
 <img src="IITC_24.jpg" />  
 <img src="IITC_25.jpg" />  
